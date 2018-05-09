@@ -10,11 +10,11 @@ MTradumàtica is developed by [Prompsit Language Engineering](http://www.prompsi
 # What can I do with MTradumàtica?
 With MTradumàtica you can train statistical machine translation systems step-by-step and understand how they interact together to deliver machine translation in a few steps:
 
--(1) Upload files from  parallel, sentence-by-line text files such as Moses or TMX format.
--(2) Create and manage monotexts
--(3) Build language models (LMs)
--(4) Create and manage bitexts
--(5) Train SMT translation models using your bitexts and language models. 
+- (1) Upload files from  parallel, sentence-by-line text files such as Moses or TMX format.
+- (2) Create and manage monotexts
+- (3) Build language models (LMs)
+- (4) Create and manage bitexts
+- (5) Train SMT translation models using your bitexts and language models. 
 
 Then, you will be able to (6) Translate short texts and documents using these engines, join together machine translation systems, inspect language and translation models and much more. 
 
