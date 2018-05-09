@@ -17,6 +17,8 @@ You can see and use [Mtradumàtica for testing purposes](http://grtradumatica.ua
 
 You can also install Mtradumàtica from [Github](https://github.com/tradumatica/mtradumatica).
 
+This is how it looks like:(docs/mtradumatica-home.png)
+
 # Who is delivering MTradumàtica?
 MTradumàtica is the result of the ProjectTA research project (grant number FFI2013-46041-R (MINECO / FEDER, UE)).
 
