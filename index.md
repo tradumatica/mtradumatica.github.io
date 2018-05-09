@@ -2,7 +2,7 @@
 MTradumàtica is a free, Moses-based web platform for training and using statistical machine translation systems with a user-friendly graphical interface. Its goal is to offer translators a free tool to customise their own SMT engines and enhance their productivity
 
 # What can I do with MTradumàtica?
-With MTradumàtica you can train statistical machine translation systems step-by-step and understand how they interact together to deliver machine translation in a few steps:
+With MTradumàtica you can train statistical machine translation systems step-by-step and understand how modules interact together to deliver machine translation:
 
 - (1) Upload files from  parallel, sentence-by-line text files such as Moses or TMX format.
 - (2) Create and manage monotexts
@@ -17,7 +17,8 @@ You can see and use [Mtradumàtica for testing purposes](http://grtradumatica.ua
 
 You can also install Mtradumàtica from [Github](https://github.com/tradumatica/mtradumatica).
 
-This is how it looks like: ![Mtradumàtica Home](https://github.com/tradumatica/tradumatica.github.io/blob/master/docs/mtradumatica-home.png)
+This is how it looks like:
+![Mtradumàtica Home](https://github.com/tradumatica/tradumatica.github.io/blob/master/docs/mtradumatica-home.png)
 
 # Who is delivering MTradumàtica?
 MTradumàtica is the result of the ProjectTA research project (grant number FFI2013-46041-R (MINECO / FEDER, UE)).
