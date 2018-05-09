@@ -3,13 +3,13 @@ MTradumàtica is a free, Moses-based web platform for training and using statist
 # Who is delivering Mtradumàtica?
 MTradumàtica is the result of the ProjectTA research project (grant number FFI2013-46041-R (MINECO / FEDER, UE)).
 
-Researchers of the Tradumatica research group, within the Translation and Interpreting Department of the Universitat Autònoma of Barcelona, have been working in this project since 2015. Tradumatica research group works in the fields translation technologies, terminology and documentation as well as translation evaluation.
+Researchers of the [Tradumatica research group](http://grupsderecerca.uab.cat/tradumatica/en), within the Translation and Interpreting Department of the Universitat Autònoma of Barcelona, have been working in this project since 2015. Tradumatica research group works in the fields translation technologies, terminology and documentation as well as translation evaluation.
 
-Mtradumàtica is developed by Prompsit Language Engineering, a company created from the Transducens research group at the University of Alacant that offers custom MT and related services since 2006.
+Mtradumàtica is developed by [Prompsit Language Engineering](http://www.prompsit.com), a company created from the Transducens research group at the University of Alacant that offers custom MT and related services since 2006.
 
 # Where can I find Mtradumàtica? 
 You can see and use Mtradumàtica at: 
 
-You can install Mtradumàtica from Github at: https://github.com/tradumatica/mtradumatica 
+You can install Mtradumàtica from Github at: (https://github.com/tradumatica/mtradumatica)
 
 
