@@ -19,8 +19,8 @@ With MTradumàtica you can train statistical machine translation systems step-by
 Then, you will be able to (6) Translate short texts and documents using these engines, join together machine translation systems, inspect language and translation models and much more. 
 
 # Where can I find MTradumàtica? 
-You can see and use Mtradumàtica for testing purposes at: (http://grtradumatica.uab.cat:8080/)
+You can see and use [Mtradumàtica for testing purposes](http://grtradumatica.uab.cat:8080/).
 
-You can install Mtradumàtica from Github at: (https://github.com/tradumatica/mtradumatica)
+You can also install Mtradumàtica from [Github](https://github.com/tradumatica/mtradumatica).
 
 
