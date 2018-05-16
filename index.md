@@ -12,6 +12,12 @@ With MTradumàtica you can train statistical machine translation systems step-by
 
 Then, you will be able to (6) Translate short texts and documents using these engines, join together machine translation systems, inspect language and translation models and much more. 
 
+## Useful info and training materials 
+
+We want you to make the best of MTradumàtica. Here you will find useful information about it and training materials that you can use and follow: 
+
+[TODO: add presentations and training materials]
+
 # Where can I find MTradumàtica? 
 You can see and use [Mtradumàtica for testing purposes](http://grtradumatica.uab.cat:8080/).
 
@@ -27,5 +33,7 @@ Researchers of the [Tradumatica research group](http://grupsderecerca.uab.cat/tr
 
 MTradumàtica is developed by [Prompsit Language Engineering](http://www.prompsit.com/home), a company created from the Transducens research group at the University of Alacant that offers custom MT and related services since 2006.
 
+# Contact us
 
+[TODO: add contact e-mail and social media]
 
