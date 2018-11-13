@@ -16,7 +16,13 @@ Then, you will be able to (6) Translate short texts and documents using these en
 
 We want you to make the best of MTradumàtica. Here you will find useful information about it and training materials that you can use and follow: 
 
-[TODO: add presentations and training materials]
+https://ddd.uab.cat/record/174544?ln=ca
+http://www.linguamatica.com/index.php/linguamatica/article/view/v9n2p4/419
+http://revistes.uab.cat/tradumatica/article/view/np-2017-martin-pique
+http://lrec-conf.org/workshops/lrec2018/W3/pdf/book_of_proceedings.pdf#page=20
+
+
+[TODO: add training materials]
 
 # Where can I find MTradumàtica? 
 You can see and use [Mtradumàtica for testing purposes](http://grtradumatica.uab.cat:8080/).
