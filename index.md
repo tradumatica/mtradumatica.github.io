@@ -25,7 +25,7 @@ We want you to make the best of MTradumàtica. Here you will find useful informa
 [TODO: add training materials]
 
 # Where can I find MTradumàtica? 
-You can see and use [Mtradumàtica for testing purposes](http://grtradumatica.uab.cat:8080/).
+You can see and use [Mtradumàtica for testing purposes](https://mtradumatica.uab.cat/).
 
 You can also install Mtradumàtica from [Github](https://github.com/tradumatica/mtradumatica).
 
