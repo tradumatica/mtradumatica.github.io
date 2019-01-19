@@ -1,5 +1,5 @@
 # What is MTradumàtica?
-MTradumàtica is a free, Moses-based web platform for training and using statistical machine translation systems with a user-friendly graphical interface. Its goal is to offer translators a free tool to customise their own SMT engines and enhance their productivity
+MTradumàtica is a free, Moses-based web platform for training and using statistical machine translation systems with a user-friendly graphical interface. Its development is led by the Tradumàtica Research Group at the Universitat Autònoma de Barcelona, and its goal is to offer translators a free tool to customise their own SMT engines and enhance their productivity
 
 # What can I do with MTradumàtica?
 With MTradumàtica you can train statistical machine translation systems step-by-step and understand how modules interact together to deliver machine translation:
